@@ -1,0 +1,26 @@
+.menu {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    display:inline;
+    text-align:center;
+}
+.menuboot {
+    list-style-type: none;
+    display:inline;
+    text-align: center;
+    height: 70px;
+    bottom: 0px;
+    position: fixed;
+}
+.socialmedia {
+    margin:auto;
+}
+.header {
+    height: 50px;
+    background:#000080;
+}
+.footer {
+    height: 50px;
+    background:#000080;
+}
